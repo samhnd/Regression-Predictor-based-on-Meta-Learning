@@ -13,3 +13,10 @@ However, the implemented engine won't have knowledge about  every domains and wo
 ```
 from automl import prediction
 ```
+
+#### Examples:
+
+Tests were presented in the following notebooks:
+- Boston House dataset
+- Cancer dataset
+
